@@ -1,0 +1,10 @@
+package t01;
+
+public class Test4 {
+	public static void main(String[] args) {
+		System.out.print("1.반갑습니다.");
+		System.out.print("2.반갑습니다.");
+		System.out.print("3.반갑습니다.");
+		System.out.print("4.반갑습니다.");
+	}
+}
