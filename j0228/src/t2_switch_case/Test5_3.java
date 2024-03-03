@@ -1,3 +1,4 @@
+
 package t2_switch_case;
 
 import java.util.Scanner;
